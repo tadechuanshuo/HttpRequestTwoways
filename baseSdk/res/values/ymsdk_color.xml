@@ -1,0 +1,9 @@
+<resources>
+
+    <drawable name="ymdialog_btn_normal">#FFFFFF</drawable>
+    <drawable name="ymdialog_btn_pressed">#0654ba</drawable>
+
+    <drawable name="ymtitlebar_bg">#000000</drawable>
+
+
+</resources>

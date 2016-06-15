@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="YmProgressLoadingTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/ymsdk_toast_bg</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="YmToastTheme" parent="android:Theme.Dialog">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@drawable/ymsdk_toast_bg</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+    <style name="CustomProgressStyle" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:minWidth">21dip</item>
+        <item name="android:maxWidth">30dip</item>
+        <item name="android:minHeight">21dip</item>
+        <item name="android:maxHeight">30dip</item>
+    </style>
+    
+    <style name="YmTitleBarBtnTextStyle">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    
+</resources>

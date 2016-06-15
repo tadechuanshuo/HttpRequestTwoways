@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="YmTitleBar">
+        <attr name="leftBgDrawable" format="reference" />
+        <attr name="leftText" format="reference|string" />
+        <attr name="leftTextColor" format="reference|color" />
+        <attr name="leftTextSize" format="float" />
+        <attr name="leftPadding" format="dimension" />
+
+        <attr name="rightBgDrawable" format="reference" />
+        <attr name="rightText" format="reference|string" />
+        <attr name="rightTextColor" format="reference|color" />
+        <attr name="rightTextSize" format="float" />
+        <attr name="rightPadding" format="dimension" />
+
+        <attr name="titleBgDrawable" format="reference" />
+        <attr name="titleText" format="reference|string" />
+        <attr name="titleTextColor" format="reference|color" />
+        <attr name="titleTextSize" format="float" />
+
+        <attr name="tabItem1" format="reference|string" />
+        <attr name="tabItem2" format="reference|string" />
+        <attr name="tabItemSpace" format="dimension" />
+        <attr name="tabTextColor" format="reference|color" />
+        <attr name="tabTextSize" format="float" />
+
+    </declare-styleable>
+
+</resources>

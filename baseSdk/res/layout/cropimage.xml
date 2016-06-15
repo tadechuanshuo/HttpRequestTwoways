@@ -1,0 +1,72 @@
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:background="#55000000" >
+        
+
+    <LinearLayout
+        android:id="@+id/action"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/discard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_gray_bottom_selector"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/cancel"
+            android:textColor="#303030"
+            android:textSize="16dp" />
+
+        <ImageButton
+                android:id="@+id/rotateLeft"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/discard"
+                style="@style/CropButton"
+                android:src="@drawable/ic_rotate_left"
+                android:visibility="gone"
+                />
+
+        <ImageButton
+                android:id="@+id/rotateRight"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/rotateLeft"
+                style="@style/CropButton"
+                android:src="@drawable/ic_rotate_right"
+                android:visibility="gone"
+                />
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_blue_bottom_selector"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/save"
+            android:textColor="#ffffff"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+    
+        <view
+            android:id="@+id/image"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/action"
+            android:layout_x="0dip"
+            android:layout_y="0dip"
+            class="simplecropimage.CropImageView"
+            android:background="#55000000" />
+
+</RelativeLayout>

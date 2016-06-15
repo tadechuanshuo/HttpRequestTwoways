@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="ymtitlebar_btn_gap">5dp</dimen>
+
+</resources>

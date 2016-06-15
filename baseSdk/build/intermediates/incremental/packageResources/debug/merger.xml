@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\eyisheng\baseSdk\res"><file name="loading_animation" path="F:\eyisheng\baseSdk\res\anim\loading_animation.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="F:\eyisheng\baseSdk\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="F:\eyisheng\baseSdk\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="F:\eyisheng\baseSdk\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="F:\eyisheng\baseSdk\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="ani_progressbar_loading_img" path="F:\eyisheng\baseSdk\res\drawable\ani_progressbar_loading_img.xml" qualifiers="" type="drawable"/><file name="btn_blue_bottom_selector" path="F:\eyisheng\baseSdk\res\drawable\btn_blue_bottom_selector.xml" qualifiers="" type="drawable"/><file name="btn_gray_bottom_selector" path="F:\eyisheng\baseSdk\res\drawable\btn_gray_bottom_selector.xml" qualifiers="" type="drawable"/><file name="button_focus" path="F:\eyisheng\baseSdk\res\drawable\button_focus.9.png" qualifiers="" type="drawable"/><file name="button_normal" path="F:\eyisheng\baseSdk\res\drawable\button_normal.9.png" qualifiers="" type="drawable"/><file name="default_bg" path="F:\eyisheng\baseSdk\res\drawable\default_bg.xml" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="F:\eyisheng\baseSdk\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="F:\eyisheng\baseSdk\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="segmented" path="F:\eyisheng\baseSdk\res\drawable\segmented.xml" qualifiers="" type="drawable"/><file name="selector_crop_button" path="F:\eyisheng\baseSdk\res\drawable\selector_crop_button.xml" qualifiers="" type="drawable"/><file name="wheel_bg" path="F:\eyisheng\baseSdk\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_val" path="F:\eyisheng\baseSdk\res\drawable\wheel_val.xml" qualifiers="" type="drawable"/><file name="ymsdk_widget_ymdialog_btn_bg" path="F:\eyisheng\baseSdk\res\drawable\ymsdk_widget_ymdialog_btn_bg.xml" qualifiers="" type="drawable"/><file name="btn_blue_bottom_disable" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_blue_bottom_disable.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_blue_bottom_normal" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_blue_bottom_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_blue_bottom_pressed" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_blue_bottom_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_crop_operator" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_crop_operator.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_crop_pressed" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_crop_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_gray_bottom_disable" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_gray_bottom_disable.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_gray_bottom_normal" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_gray_bottom_normal.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_gray_bottom_pressed" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\btn_gray_bottom_pressed.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="camera_crop_height" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\camera_crop_height.png" qualifiers="xhdpi-v4" type="drawable"/><file name="camera_crop_width" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\camera_crop_width.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_ptr_flip" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\default_ptr_flip.png" qualifiers="xhdpi-v4" type="drawable"/><file name="header_shadow" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\header_shadow.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_rotate_left" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ic_rotate_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_rotate_right" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ic_rotate_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_arrow" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\indicator_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_autocrop" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\indicator_autocrop.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading1" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading2" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading3" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading3.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading4" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading4.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading5" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading5.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading6" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading6.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading7" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading7.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_img" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\loading_img.png" qualifiers="xhdpi-v4" type="drawable"/><file name="portrait_mask" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\portrait_mask.png" qualifiers="xhdpi-v4" type="drawable"/><file name="process_type_profile" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\process_type_profile.png" qualifiers="xhdpi-v4" type="drawable"/><file name="section_shadow" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\section_shadow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ymsdk_image_progress_bg" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ymsdk_image_progress_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ymsdk_image_progress_indicate" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ymsdk_image_progress_indicate.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ymsdk_shadow_left" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ymsdk_shadow_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ymsdk_toast_bg" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ymsdk_toast_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ymsdk_widget_ymdialog_bg" path="F:\eyisheng\baseSdk\res\drawable-xhdpi\ymsdk_widget_ymdialog_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_arrow" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\indicator_arrow.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading1" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading1.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading2" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading2.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading3" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading3.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading4" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading4.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading5" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading5.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading6" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading6.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading7" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\loading7.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="portrait_mask" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\portrait_mask.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="process_type_profile" path="F:\eyisheng\baseSdk\res\drawable-xxhdpi\process_type_profile.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="cropimage" path="F:\eyisheng\baseSdk\res\layout\cropimage.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="F:\eyisheng\baseSdk\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="F:\eyisheng\baseSdk\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="ymsdk_widget_progressloading" path="F:\eyisheng\baseSdk\res\layout\ymsdk_widget_progressloading.xml" qualifiers="" type="layout"/><file name="ymsdk_widget_titlebar" path="F:\eyisheng\baseSdk\res\layout\ymsdk_widget_titlebar.xml" qualifiers="" type="layout"/><file name="ymsdk_widget_ymdialog" path="F:\eyisheng\baseSdk\res\layout\ymsdk_widget_ymdialog.xml" qualifiers="" type="layout"/><file name="ymsdk_widget_ymdialog_item" path="F:\eyisheng\baseSdk\res\layout\ymsdk_widget_ymdialog_item.xml" qualifiers="" type="layout"/><file name="main" path="F:\eyisheng\baseSdk\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\eyisheng\baseSdk\res\values\attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+         
+         <!-- A drawable to use as the background of the Refreshable View -->
+         <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+         
+         <!-- A drawable to use as the background of the Header and Footer Loading Views -->
+         <attr format="reference|color" name="ptrHeaderBackground"/>
+         
+         <!-- Text Color of the Header and Footer Loading Views -->
+         <attr format="reference|color" name="ptrHeaderTextColor"/>
+         
+         <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+         <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+         
+         <!-- Mode of Pull-to-Refresh that should be used -->
+         <attr name="ptrMode">
+             <flag name="disabled" value="0x0"/>
+             <flag name="pullFromStart" value="0x1"/>
+             <flag name="pullFromEnd" value="0x2"/>
+             <flag name="both" value="0x3"/>
+             <flag name="manualOnly" value="0x4"/>
+             
+             <!-- These last two are depreacted -->
+             <flag name="pullDownFromTop" value="0x1"/>
+             <flag name="pullUpFromBottom" value="0x2"/>
+         </attr>
+         
+         <!-- Whether the Indicator overlay(s) should be used -->
+         <attr format="reference|boolean" name="ptrShowIndicator"/>
+         
+         <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
+         <attr format="reference" name="ptrDrawable"/>
+         
+         <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+         <attr format="reference" name="ptrDrawableStart"/>
+         
+         <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+         <attr format="reference" name="ptrDrawableEnd"/>
+         
+         <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
+         <attr format="reference|boolean" name="ptrOverScroll"/>
+         
+         <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+         <attr format="reference" name="ptrHeaderTextAppearance"/>
+         
+         <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+         <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+         
+         <!-- Style of Animation should be used displayed when pulling. -->
+         <attr name="ptrAnimationStyle">
+             <flag name="rotate" value="0x0"/>
+             <flag name="flip" value="0x1"/>
+         </attr>
+         
+         <!-- Whether the user can scroll while the View is Refreshing -->
+         <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+         
+         <!--
+          Whether PullToRefreshListView has it's extras enabled. This allows the user to be
+          able to scroll while refreshing, and behaves better. It acheives this by adding
+          Header and/or Footer Views to the ListView.
+          -->
+         <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+         
+         <!--
+          Whether the Drawable should be continually rotated as you pull. This only
+          takes effect when using the 'Rotate' Animation Style.
+          -->
+         <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+         
+         <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
+         <attr format="reference|color" name="ptrAdapterViewBackground"/>
+         <attr format="reference" name="ptrDrawableTop"/>
+         <attr format="reference" name="ptrDrawableBottom"/>
+     </declare-styleable><declare-styleable name="SegmentedButton">
+         <attr format="reference|color" name="segmentedButton_backgroung"/>
+         <attr format="dimension" name="segmentedButton_textSize"/>
+         <attr format="reference|color" name="segmentedButton_textColor"/>
+     </declare-styleable><declare-styleable name="SegmentedControl">
+        <attr format="reference" name="segmentedNames"/>
+        <attr format="reference" name="segmentedButtonStyle"/>
+    </declare-styleable></file><file path="F:\eyisheng\baseSdk\res\values\dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen></file><file path="F:\eyisheng\baseSdk\res\values\ids.xml" qualifiers=""><item name="scrollview" type="id"/><item name="webview" type="id"/><item name="gridview" type="id"/></file><file path="F:\eyisheng\baseSdk\res\values\strings.xml" qualifiers=""><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_down_label</string><string name="not_enough_space">存储空间不足</string><string name="pull_to_refresh_pull_down_label">上拉刷新…</string><string name="Weixin_share_cancel">微信分享取消</string><string name="Weixin_register_fail">微信注册失败，请重启程序后再试。</string><string-array name="segmentedControl">
+        <item>aaaa</item>
+        <item>bbbb</item>
+        <item>cccc</item>
+        <item>dddd</item>
+    </string-array><string name="network_error">网络不给力,请重新操作.</string><string name="Weixin_not_install_notify">您的手机未安装微信，安装后才能分享。</string><string name="preparing_card">正在准备SD卡</string><string name="Weixin_share_success">微信分享成功</string><string-array name="no_input">
+		<item>noInput</item>
+	</string-array><string name="Weixin_not_install_invite_notify">您的手机未安装微信，安装后才能邀请微信好友。</string><string name="saving_image">正在存储照片</string><string name="pull_to_refresh_release_label">放开即可刷新…</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="Weixin_not_support_API">您的手机微信版本太低，建议安装最新版微信。</string><string name="comment_list_title">留言</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="cancel">取消</string><string name="save">完成</string><string name="pull_to_refresh_refreshing_label">正在刷新…</string><string name="Weixin_share_fail">微信分享失败</string><string name="no_storage_card">没有SD卡</string><string name="get_loc_fail">定位失败</string><string name="pull_to_refresh_pull_label">下拉可以刷新…</string><string name="like_list_title">称赞者</string></file><file path="F:\eyisheng\baseSdk\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="segmentedButton">
+        <item name="segmentedButton_backgroung">@drawable/segmented</item>
+        <item name="segmentedButton_textSize">25dp</item>
+        <item name="segmentedButton_textColor">#ea3836</item>
+    </style><style name="CropButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">20sp</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><color name="black">#000000</color></file><file path="F:\eyisheng\baseSdk\res\values\ymsdk_attrs.xml" qualifiers=""><declare-styleable name="YmTitleBar">
+        <attr format="reference" name="leftBgDrawable"/>
+        <attr format="reference|string" name="leftText"/>
+        <attr format="reference|color" name="leftTextColor"/>
+        <attr format="float" name="leftTextSize"/>
+        <attr format="dimension" name="leftPadding"/>
+
+        <attr format="reference" name="rightBgDrawable"/>
+        <attr format="reference|string" name="rightText"/>
+        <attr format="reference|color" name="rightTextColor"/>
+        <attr format="float" name="rightTextSize"/>
+        <attr format="dimension" name="rightPadding"/>
+
+        <attr format="reference" name="titleBgDrawable"/>
+        <attr format="reference|string" name="titleText"/>
+        <attr format="reference|color" name="titleTextColor"/>
+        <attr format="float" name="titleTextSize"/>
+
+        <attr format="reference|string" name="tabItem1"/>
+        <attr format="reference|string" name="tabItem2"/>
+        <attr format="dimension" name="tabItemSpace"/>
+        <attr format="reference|color" name="tabTextColor"/>
+        <attr format="float" name="tabTextSize"/>
+
+    </declare-styleable></file><file path="F:\eyisheng\baseSdk\res\values\ymsdk_color.xml" qualifiers=""><drawable name="ymdialog_btn_pressed">#0654ba</drawable><drawable name="ymtitlebar_bg">#000000</drawable><drawable name="ymdialog_btn_normal">#FFFFFF</drawable></file><file path="F:\eyisheng\baseSdk\res\values\ymsdk_dimens.xml" qualifiers=""><dimen name="ymtitlebar_btn_gap">5dp</dimen></file><file path="F:\eyisheng\baseSdk\res\values\ymsdk_styles.xml" qualifiers=""><style name="CustomProgressStyle" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:minWidth">21dip</item>
+        <item name="android:maxWidth">30dip</item>
+        <item name="android:minHeight">21dip</item>
+        <item name="android:maxHeight">30dip</item>
+    </style><style name="YmTitleBarBtnTextStyle">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+    </style><style name="YmProgressLoadingTheme" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@drawable/ymsdk_toast_bg</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="YmToastTheme" parent="android:Theme.Dialog">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@drawable/ymsdk_toast_bg</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style></file><file path="F:\eyisheng\baseSdk\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="F:\eyisheng\baseSdk\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="F:\eyisheng\baseSdk\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="F:\eyisheng\baseSdk\build\generated\res\rs\debug"/><source path="F:\eyisheng\baseSdk\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="F:\eyisheng\baseSdk\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="YmTitleBar"><attr format="reference" name="leftBgDrawable"/><attr format="reference|string" name="leftText"/><attr format="reference|color" name="leftTextColor"/><attr format="float" name="leftTextSize"/><attr format="dimension" name="leftPadding"/><attr format="reference" name="rightBgDrawable"/><attr format="reference|string" name="rightText"/><attr format="reference|color" name="rightTextColor"/><attr format="float" name="rightTextSize"/><attr format="dimension" name="rightPadding"/><attr format="reference" name="titleBgDrawable"/><attr format="reference|string" name="titleText"/><attr format="reference|color" name="titleTextColor"/><attr format="float" name="titleTextSize"/><attr format="reference|string" name="tabItem1"/><attr format="reference|string" name="tabItem2"/><attr format="dimension" name="tabItemSpace"/><attr format="reference|color" name="tabTextColor"/><attr format="float" name="tabTextSize"/></declare-styleable><declare-styleable name="SegmentedControl"><attr format="reference" name="segmentedNames"/><attr format="reference" name="segmentedButtonStyle"/></declare-styleable><declare-styleable name="SegmentedButton"><attr format="reference|color" name="segmentedButton_backgroung"/><attr format="dimension" name="segmentedButton_textSize"/><attr format="reference|color" name="segmentedButton_textColor"/></declare-styleable></configuration></mergedItems></merger>
